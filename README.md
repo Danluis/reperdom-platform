@@ -8,6 +8,14 @@ This project focuses on building an administrative system capable of handling co
 
 The platform streamlines internal processes while enabling artists to gain exposure and connect with industry opportunities.
 
+## 🔗 Live Demo
+
+🌐 https://reperdom.com/
+
+This is a live version of the platform where core features and user flows can be explored.
+
+> Note: Some functionalities may be restricted depending on user roles.
+
 ## ⚙️ Tech Stack
 
 **Frontend:**
@@ -47,18 +55,14 @@ The system follows a modular architecture:
 
 ## 📸 Screenshots
 
-### Start
-
+### Dashboard / Overview
 <img width="1410" height="760" alt="image" src="https://github.com/user-attachments/assets/eea02f80-8511-439c-a4f6-a83a778e1150" />
 
-### Filters
-
+### Data Filtering & Search
 <img width="1391" height="763" alt="image" src="https://github.com/user-attachments/assets/6ac3e182-d53f-4c87-ac46-a2c324232775" />
 
-### Library
-
+### Data Management / Library
 <img width="1382" height="730" alt="image" src="https://github.com/user-attachments/assets/379b8a24-e23b-46d5-ab83-3170a66285da" />
-
 
 ## 🔒 Note
 
