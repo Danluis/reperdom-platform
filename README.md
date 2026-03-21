@@ -1,70 +1,76 @@
 # 🎶 Reperdom
 
-Reperdom is a platform designed to connect artists with record labels and manage music-related data, improving visibility and operational efficiency within the music industry.
+Reperdom is a music platform designed to connect artists with record labels while allowing users to discover, stream, and interact with music content.
 
 ## 🧠 Overview
 
-This project focuses on building an administrative system capable of handling complex workflows related to artist management and revenue distribution.
+This project focuses on building a fullstack platform that combines music streaming features with artist visibility and industry connection tools.
 
-The platform streamlines internal processes while enabling artists to gain exposure and connect with industry opportunities.
+Users can explore music, create playlists, interact with content, and discover artists, while artists gain exposure and opportunities to connect with record labels.
 
 ## 🔗 Live Demo
 
 🌐 https://reperdom.com/
 
-This is a live version of the platform where core features and user flows can be explored.
+This is a live version of the platform where core features such as music playback, playlists, and interactions can be explored.
 
-> Note: Some functionalities may be restricted depending on user roles.
+> Note: Some functionalities may require authentication.
 
 ## ⚙️ Tech Stack
 
 **Frontend:**
-- Angular
+- React
 - TypeScript
 
 **Backend:**
 - Node.js (Express)
 
 **Database:**
-- MySQL / PostgreSQL
+- MySQL
+
+**Storage:**
+- Supabase (file storage for audio and media)
 
 ## 🏗️ Architecture
 
 The system follows a modular architecture:
 
-- Separation between frontend and backend layers  
+- Frontend and backend separation  
 - RESTful API communication  
-- Relational database design for complex data relationships  
-- Scalable structure for handling business logic  
+- Media storage handled via Supabase  
+- Scalable structure for handling user interactions and content  
 
 ## 🔥 Key Features
 
-- Artist, performer, and participant management  
-- Revenue distribution logic based on monitoring and incidents  
-- Administrative tools for managing music-related data  
-- Automated report generation (Excel/PDF)  
-- Data visualization through dynamic tables and interfaces  
+- 🎧 Custom music player built from scratch  
+- 📂 Playlist creation and management system  
+- ❤️ Like system for user interaction  
+- 🔎 Advanced search with filters  
+- 🎤 Artist profiles and content management  
+- 🤝 Connection system between artists and record labels  
+- ☁️ Media storage and delivery using Supabase  
 
 ## 🚀 My Role
 
-- Developed core administrative modules  
-- Implemented complex business logic for revenue distribution  
-- Built RESTful APIs and integrated frontend components  
-- Participated in system design and architecture decisions  
-- Improved data handling and operational workflows  
+- Designed and developed the music player from scratch  
+- Implemented playlist and user interaction systems (likes, etc.)  
+- Built search and filtering functionalities  
+- Developed backend APIs for handling music data and user interactions  
+- Integrated Supabase for file storage and media handling  
+- Contributed to overall system architecture and data flow  
 
 ## 📸 Screenshots
 
-### Dashboard / Overview
+### Music Player / Dashboard
 <img width="1410" height="760" alt="image" src="https://github.com/user-attachments/assets/eea02f80-8511-439c-a4f6-a83a778e1150" />
 
-### Data Filtering & Search
+### Search & Filters
 <img width="1391" height="763" alt="image" src="https://github.com/user-attachments/assets/6ac3e182-d53f-4c87-ac46-a2c324232775" />
 
-### Data Management / Library
+### Library / Playlists
 <img width="1382" height="730" alt="image" src="https://github.com/user-attachments/assets/379b8a24-e23b-46d5-ab83-3170a66285da" />
 
 ## 🔒 Note
 
-This repository does not include source code due to company restrictions.  
+This repository does not include source code due to project restrictions.  
 Details about the implementation and architecture can be shared upon request.
